@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/joke/zim-minikube/compare/v1.1.0...v1.1.1) (2023-03-12)
+
+
+### Bug Fixes
+
+* new version detection message ([c218b2b](https://github.com/joke/zim-minikube/commit/c218b2bdea985bcaab7e68171745d4ab97a82653))
+
 ## [1.1.0](https://github.com/joke/zim-minikube/compare/v1.0.0...v1.1.0) (2022-09-17)
 
 
